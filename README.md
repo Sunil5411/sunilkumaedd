@@ -1,26 +1,14 @@
 <h1 align="center">Hi 👋, I'm SunilKumarReddy</h1>
 <h3 align="center">Machine Learning Enthusiast and Frontend Developer</h3>
-<br>
 - 🔭 I’m currently Learning on **Artificial intelligence**
-< br>
 - 👯 I’m looking to collaborate on **Projects**
-< br>
 - 🤝 I’m looking for help with **Organization**
-< br>
 - 🌱 I’m currently learning **Deep Learning Models**
-< br>
 - 💬 Ask me about **Machine Learning, Frontend Development**
-< br>
 - 📫 How to reach me **sunilkumareddy8@outlook.com**
-< br>
 - 👨‍💻 All of my projects are available at **sunilkumareddy.in**
-< br>
 - 📝 I regularly write articles on **sunilkumareddy.in**
-< br>
 - 📄 Know about my experiences **sunilkumareddy.in**
-< br>
-- ⚡ Headline **Thank God all my mistakes were burned up. Now i can start fresh again**
-< br>
 
 <div> <a href="https://www.linkedin.com/in/sunilkumar-eddy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/sunilkumaedd" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
