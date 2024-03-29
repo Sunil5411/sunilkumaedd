@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm SunilKumarReddy</h1>
 <h3 align="center">Machine Learning Enthusiast and Frontend Developer</h3>
-- 🔭 I’m currently Learning on **Artificial intelligence**
-- 👯 I’m looking to collaborate on **Projects**
-- 🤝 I’m looking for help with **Organization**
-- 🌱 I’m currently learning **Deep Learning Models**
+- 🔭 I’m currently Learning on 
+     **Artificial intelligence**
+- 👯 I’m looking to collaborate on 
+     **Projects**
+- 🤝 I’m looking for help with 
+     **Organization**
+- 🌱 I’m currently learning 
+     **Deep Learning Models**
 - 💬 Ask me about **Machine Learning, Frontend Development**
 - 📫 How to reach me **sunilkumareddy8@outlook.com**
 - 👨‍💻 All of my projects are available at **sunilkumareddy.in**
