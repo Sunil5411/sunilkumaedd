@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SunilKumrReddy</h1>
 <h3 align="center">Java Backend Development</h3>
 
-- 🔭 I’m currently Working on **Artificial intelligence**
+- 🔭 I’m currently Working on **Backend Development**
 
 - 👯 I’m looking to collaborate on **Projects**
 
