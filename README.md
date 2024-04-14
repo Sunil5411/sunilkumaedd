@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SunilKumrReddy</h1>
-<h3 align="center">Frontend Development & Machine Learning Engineer</h3>
+<h3 align="center">Machine Learning Engineer</h3>
 
-- 🔭 I’m currently Working on **Frontend Development**
+- 🔭 I’m currently Learning on **Machine Learning and Deep Learning**
 
 - 👯 I’m looking to collaborate on **Projects**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [sunilkumareddy.in](sunilkumareddy.in)
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **sunilkumareddy8@outlook.com**
 
