@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SunilKumrReddy</h1>
-<h3 align="center">WordPress Developer & Web Designer</h3>
+<h3 align="center">Machine Learning Engineer</h3>
 
-- 🔭 I’m currently Learning on **Frontend FrameWorks**
+- 🔭 I’m currently Learning on **Deep Learning Frameworks**
 
 - 👯 I’m looking to collaborate on **Projects**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [sunilkumareddy.in](sunilkumareddy.in)
 
-- 💬 Ask me about **Wordpress**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **sunilkumareddy8@outlook.com**
 
